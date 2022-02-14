@@ -3,6 +3,8 @@
 
 What makes the game interesting is that it isn’t just a game of “this number vs that number” like most card games. There can be 16 different actions depending on the combination of the attack and defense.
 
+![Combo table (same table as in the documenation in text form)](documentation/images/combo-table.png)
+
 A printable copy of the rules is in the "documentation" folder.
 
 ![Drawing of the layout of the game on the table](documentation/images/table.png)
