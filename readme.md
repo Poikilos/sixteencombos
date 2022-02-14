@@ -15,5 +15,5 @@ A printable copy of the rules is in the "documentation" folder.
 
 ![Drawing of the layout of the game on the table](documentation/images/table.png)
 
-On Twitter, you an use `#16Combos` and mention `@poikilos_` to spread the word.
+On Twitter, you an use [#16Combos](https://twitter.com/search?q=%2316combos&src=typed_query&f=top) and mention [@poikilos_](https://twitter.com/poikilos_) to spread the word.
 
