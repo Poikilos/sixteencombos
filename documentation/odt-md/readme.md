@@ -9,4 +9,4 @@ However, if you are here you are probably trying to view the rules online. If so
 text editor. The official rules are in the odt file further up.
 
 ## Official vs Custom Rules
-See [Official vs Custom Rules](../../readme.md#official-vs-custom-rules) in the main readme.
+See the "[Official vs Custom Rules](../../readme.md#official-vs-custom-rules)" section in the main readme.

@@ -9,4 +9,4 @@ Before submitting a PR (pull request) or making any other change (at least textu
 - pre-stage.sh makes a markdown version of the odt file so that the changes can be seen clearly (by viewing commit diffs) and tracked using git (and only contains changed lines unlike if using xml or html--See "git 2003f48" in [changelog.md](changelog.md) for more details).
 
 ### Official vs Custom Rules
-See "Official vs Custom Rules" in the [readme](readme.md).
+See the "[Official vs Custom Rules](readme.md#official-vs-custom-rules)" section in the readme.
