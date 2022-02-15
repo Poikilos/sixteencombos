@@ -5,7 +5,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 
 ## [1.0 RC1] - 2022-02-15
-This prerelease changes effective rules compared to 0.9 as follows:
+This prerelease changes rules compared to 0.9 as follows:
 - A critical failure causes the new "Lost Reaction" rule to take effect.
   - A critical failure prevents the "Change Stance" sub-rule of the "One of Each Type" optional rule from being used.
 - A counter counts as a reaction and a character can only perform one reaction per round.
