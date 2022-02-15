@@ -1,6 +1,6 @@
 # Rules in Linear Format
 
-The official rules are in Sixteen_Combos-Rules.odt in the [documentation](../) folder (click that file then click "Download" if using a web browser).
+The official rules are in Sixteen_Combos-Rules.odt in the [documentation](../) folder (click Sixteen_Combos-Rules.odt then click "Download" if using a web browser).
 
 However, if you are here you are probably trying to view the rules online. If so, this information may help:
 - Combo Table: See [../../readme.md](../../readme.md)
