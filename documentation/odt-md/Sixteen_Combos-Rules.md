@@ -3,7 +3,7 @@
 
 
 |  | 16 Combos | Rules version: Poikilos
- 2022-02-14 |
+ 0.9 |
 
 
 16 Combos is an
