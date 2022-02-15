@@ -88,7 +88,7 @@ affects this step).
  or combo says otherwise.
 
 
-![](Sixteen_Combos-Rules_htm_16d01b80e76c7190.png)  
+![](../images/table.png)  
 
 
 
