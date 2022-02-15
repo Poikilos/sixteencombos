@@ -13,7 +13,7 @@ What makes the game interesting is that it isn’t just a game of “this number
 `*****` <ins>Surprise</ins>: Regardless of other rules or combos, the target can’t make changes to their target pair in any way after the action value is revealed (but they can do so before).
 
 
-
+## How Cards are Arranged
 ![Drawing of the layout of the game on the table](documentation/images/table.png)
 
 On Twitter, you an use [#16Combos](https://twitter.com/search?q=%2316combos&src=typed_query&f=top) and mention [@poikilos_](https://twitter.com/poikilos_) to spread the word.
