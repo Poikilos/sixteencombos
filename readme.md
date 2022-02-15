@@ -4,16 +4,18 @@
 What makes the game interesting is that it isn’t just a game of “this number vs that number” like most card games. There can be 16 different actions depending on the combination of the attack and defense.
 
 ## Combo Table
-
+The table is supposed to mimic real life: For example, if you use your vitality against someone’s wealth, you dig through the trash and try to overcome the opponent’s wealth that way (“Scavenge”). <ins>Static Type</ins>: Increasing a value doesn't affect a pair’s type `*`.
 ![Combo table (same table as in the documenation in text form)](documentation/images/combo-table.png)
-`*` <ins>Override</ins>: Unless a combo affects that.\
-`**` <ins>Second Turn</ins>: You can’t use a two-turn action if you get a second action (if the defense changes due to another rule or combo, you have to change the type or lose the second turn if you have no attack type that doesn’t have a two-turn action)\
-`***` Use Maximum Value rule\
-`****` Ignore Maximum Value rule  **** Use Wild Card rule\
-`*****` <ins>Surprise</ins>: Regardless of other rules or combos, the target can’t make changes to their target pair in any way after the action value is revealed (but they can do so before).
+`*`: Unless another combo or rule affects that.\
+<ins>Once</ins>: You can’t get the effect of a two-turn action if you are using it as a second action but you can still cause damage or defeat. The second turn uses your reaction for the round.\
+<ins>Limited</ins>: Use the “Maximum Value” rule.\
+<ins>Passive</ins>: The target pair is neither damaged nor defeated/discarded*.\
+<ins>Save Wild</ins>: Use the “Wild Card” rule.\
+<ins>Surprise</ins>: Regardless of other rules or combos, the target can’t make changes to their target pair in any way after the action value is revealed (but they can do so on their “Predictive Reaction” but not their “Informed Reaction”).\
+<ins>Unlimited</ins>: Ignore the “Maximum Value” rule.\
+<ins>Incapacitated</ins>: On a “defeated” or “damaged” outcome, The target character can’t use an action nor reaction until their turn next round.
 
-
-## How Cards are Arranged
+## Example Card Arrangement
 ![Drawing of the layout of the game on the table](documentation/images/table.png)
 
 On Twitter, you an use [#16Combos](https://twitter.com/search?q=%2316combos&src=typed_query&f=top) and mention [@poikilos_](https://twitter.com/poikilos_) to spread the word.
