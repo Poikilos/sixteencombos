@@ -3,6 +3,8 @@
 
 What makes the game interesting is that it isn’t just a game of “this number vs that number” like most card games. There can be 16 different actions depending on the combination of the attack and defense.
 
+## Combo Table
+
 ![Combo table (same table as in the documenation in text form)](documentation/images/combo-table.png)
 `*` <ins>Override</ins>: Unless a combo affects that.\
 `**` <ins>Second Turn</ins>: You can’t use a two-turn action if you get a second action (if the defense changes due to another rule or combo, you have to change the type or lose the second turn if you have no attack type that doesn’t have a two-turn action)\
