@@ -19,5 +19,5 @@ On Twitter, you an use [#16Combos](https://twitter.com/search?q=%2316combos&src=
 ## Rules
 A printable copy of the rules is in the "documentation" folder: [Rules](documentation/)
 
-### Offical vs Custom Rules
+### Official vs Custom Rules
 To prevent confusion, the behavior of any official computer code should match the rules in the official rules document. For unofficial rule documents or code, the program should make clear to all users the custom ruleset name (title/author, and if necessary, the version/date/edition) and that ruleset name must not be the same as the ruleset name (author+date) at the top right of the official rules document. The program should also make clear to all users what optional rules are active before an encounter begins.

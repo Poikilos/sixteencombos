@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [git] - 2014-02-14
+### Added
+- readme files for navigating the repo using a web browser
 
 ## [git 2003f48] - 2014-02-14
 ### Added
