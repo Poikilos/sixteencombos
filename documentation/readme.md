@@ -1,6 +1,6 @@
 # Documentation
 
-The official rules are in Sixteen_Combos-Rules.odt in this folder (click Sixteen_Combos-Rules.odt then click "Download" if using a web browser).
+The official rules are in Sixteen_Combos-Rules.odt in this folder (click Sixteen_Combos-Rules.odt above then click "Download" if using a web browser).
 
 However, if you are here you may be trying to view the rules online. If so, this information may help:
 - Combo Table: See [../readme.md](../readme.md)
